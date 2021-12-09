@@ -4,8 +4,13 @@
   * PenTesting
   * Cycling
   * Guitar/MUsic
+
+  ---
+  
  I’m currently learning python => [Django, Ursina engine]
- I’m looking to collaborate on ...
+ 
+  ---
+  
 ### How to reach me: ###
   * Email: smiron1703@gmail.com
 

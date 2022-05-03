@@ -1,7 +1,6 @@
 # I'm tiberius-kirk #
 ### I’m interested in: ###
   * Programming
-  * PenTesting
   * Cycling
   * Guitar/MUsic
 

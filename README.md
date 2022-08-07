@@ -15,9 +15,10 @@
 </table>
 
 1 | My names are |
-2 | Rikudo       |
-3 | Gedo         |
-4 | Ameno        |
+2 | --- |
+3 | Rikudo       |
+4 | Gedo         |
+5 | Ameno        |
 ### I’m interested in: ###
   * Programming
   * Cycling

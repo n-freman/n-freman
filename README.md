@@ -16,7 +16,8 @@
 
   ---
   
- I’m currently learning python => [Django, Ursina engine]
+ I’m currently learning python => [Django, RabbitMQ, Redis, Celery]
+                        C++    => []
  
   ---
   

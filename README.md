@@ -14,11 +14,11 @@
  </tr>
 </table>
 
-1 | My names are |
-2 | --- |
-3 | Rikudo       |
-4 | Gedo         |
-5 | Ameno        |
+| My names are |
+| --- |
+| Rikudo       |
+| Gedo         |
+| Ameno        |
 ### I’m interested in: ###
   * Programming
   * Cycling

@@ -22,7 +22,7 @@
   ---
   
 ### How to reach me: ###
-  * [Email](smiron1703@gmail.com)
+  * [Email](mailto:smiron1703@gmail.com)
   * [Strava](https://www.strava.com/athletes/49587463)
 
 <h3 align="left">Languages and Tools:</h3>

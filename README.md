@@ -3,7 +3,7 @@
  <tr>
   <th>My names are<th>
  </tr>
- <tr>Rikudo<tr>
+ <tr>Rikudo</tr>
 </table>
 ### I’m interested in: ###
   * Programming

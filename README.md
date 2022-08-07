@@ -6,6 +6,12 @@
  <tr>
   <td>Rikudo</td>
  </tr>
+ <tr>
+  <td>Gedo</td>
+ </tr>
+ <tr>
+  <td>Ameno</td>
+ </tr>
 </table>
 ### I’m interested in: ###
   * Programming

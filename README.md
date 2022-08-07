@@ -1,24 +1,13 @@
 # I'm Mahdi #
-<table>
- <tr>
-  <th>My names are<th>
- </tr>
- <tr>
-  <td>Rikudo</td>
- </tr>
- <tr>
-  <td>Gedo</td>
- </tr>
- <tr>
-  <td>Ameno</td>
- </tr>
-</table>
 
 | My names are |
 | --- |
 | Rikudo       |
 | Gedo         |
 | Ameno        |
+| --- |
+
+
 ### I’m interested in: ###
   * Programming
   * Cycling

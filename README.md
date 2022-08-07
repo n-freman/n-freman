@@ -16,7 +16,7 @@
 
   ---
   
- I’m currently learning python => [Django, RabbitMQ, Redis, Celery]
+ I’m currently learning python => [Django, RabbitMQ, Redis, Celery]<br/>
                         C++    => []
  
   ---

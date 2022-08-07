@@ -1,6 +1,10 @@
 # I'm Mahdi #
-<th>My names are<th>
-<tr>Rikudo<tr>
+<table>
+ <tr>
+  <th>My names are<th>
+ </tr>
+ <tr>Rikudo<tr>
+</table>
 ### I’m interested in: ###
   * Programming
   * Cycling

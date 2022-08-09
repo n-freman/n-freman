@@ -1,13 +1,5 @@
 # I'm Mahdi #
 
-| My names are |
-| --- |
-| Rikudo       |
-| Gedo         |
-| Ameno        |
-|  |
-| Lisan Al Gaib |
-
 
 ### I’m interested in: ###
   * Programming

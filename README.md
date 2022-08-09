@@ -8,8 +8,7 @@
 
   ---
   
- I’m currently learning python => [Django, RabbitMQ, Redis, Celery]<br/>
- ......................................C++    => []
+ I’m currently learning => C++ 
  
   ---
   

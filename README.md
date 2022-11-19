@@ -28,6 +28,15 @@
  <a href="https://www.cplusplus.com/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width=120 height=130>
  </a>
+ <a href="https://www.postgresql.org/">
+  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width=120 height=130>
+ </a>
+ <a href="https://www.qt.io/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1280px-Qt_logo_2016.svg.png" width=140 height=100>
+ </a>
+ <a href="https://www.redis.io/">
+  <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" width=120 height=130>
+ </a>
 
 </p>
 <b>My GitHub Stats</b>

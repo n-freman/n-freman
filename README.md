@@ -9,7 +9,7 @@
 
   ---
   
- I’m currently learning => C++, Javascript
+ I’m currently learning C++, Javascript
  
   ---
   

@@ -1,52 +1,64 @@
-# I'm Nazar #
+# 🚴‍♂️ N-Freman
 
+**`Tech Innovator (Developer/Artist/Creator)`**
 
-### I’m interested in: ###
-  * Programming
-  * Cycling
-  * Guitar/Music
-  * Books
+I'm a middle full-stack developer and tech lover who fell in love with
+modern web technologies and development process in general. I'm passionate
+about finding the best solution for a problem, and writing clean code
+that follows the SOLID principles.
 
-  ---
-  
- I’m currently learning C++, Javascript
- 
-  ---
-  
-### How to reach me: ###
-  * [Email](mailto:smiron1703@gmail.com)
-  * [Strava](https://www.strava.com/athletes/49587463)
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
- <a href="https://python.org">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552"  width=100 height=110>
- </a>
- <a href="https://www.djangoproject.com/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/260px-Django_logo.svg.png?20101010121142">
- </a>
- <a href="https://www.cplusplus.com/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width=100 height=110>
- </a>
- <a href="https://www.postgresql.org/">
-  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width=100 height=110>
- </a>
- <a href="https://www.qt.io/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1280px-Qt_logo_2016.svg.png" width=100 height=70>
- </a>
- <a href="https://www.redis.io/">
-  <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" width=100 height=110>
- </a>
-
+    <img src="https://custom-icon-badges.demolab.com/github/gist/last-commit/86606134?label=Most%20active%20month&style=for-the-badge">
+    <img src="https://custom-icon-badges.demolab.com/github/followers/n-freman?style=for-the-badge">
+    <img src="https://custom-icon-badges.demolab.com/twitter/url?logo=twitter&url=https%3A%2F%2Ftwitter.com%2Fsilence79505068&style=for-the-badge&">
 </p>
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/n-freman"><img src="https://github-readme-stats.vercel.app/api?username=n-freman&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="n-freman's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/n-freman"><img src="https://github-readme-streak-stats.herokuapp.com/?user=n-freman&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## I'm a Developer, and Teacher!!
 
-<a href="http://www.github.com/n-freman"><img src="https://activity-graph.herokuapp.com/graph?username=n-freman&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-<!---
-tiberius-kirk/tiberius-kirk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other developers and any creative people
+- 🥅 2023 Goals: Learn more about mobile software architecture
+- ⚡ Fun fact: I love cycling and playing guitar
+
+---
+
+### Languages and Tools
+
+<p align="left" style="padding-bottom:15px;">
+    <img align="left" alt="Python" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img align="left" alt="Django" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+    <img align="left" alt="Flask" width="30" style="margin-right:10px;background-color:white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+    <img align="left" alt="Tensorflow" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+    <img align="left" alt="OpenCV" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
+    <img align="left" alt="Numpy" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+    <img align="left" alt="Pandas" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+    <img align="left" alt="Javascript" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img align="left" alt="React" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img align="left" alt="Tailwindcss" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+    <img align="left" alt="SQLAlchemy" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+    <img align="left" alt="Git" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img align="left" alt="Redis" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+    <img align="left" alt="Bash" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
+    <img align="left" alt="SSH" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" />
+    <img align="left" alt="Vim" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+    <img align="left" alt="Linux" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    <img align="left" alt="Jenkins" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-plain.svg" />
+    <img align="left" alt="PostgreSQL" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
+    <img align="left" alt="SQLite" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+    <img align="left" alt="SQLAlchemy" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" />
+</p>
+
+<br>
+
+---
+
+### Contact With Me
+
+[<img src="./img/telegram-app.svg"/>](https://t.me/ghetto_meloman)
+[<img src="./img/linkedin.svg"/>](https://t.me/ghetto_meloman)
+[<img src="./img/twitter.svg"/>](https://twitter.com/Silence79505068)
+[<img src="./img/github.svg"/>](https://github.com/n-freman)
+[<img src="./img/stack-overflow.svg"/>](https://stackoverflow.com/users/16886198/kayaba-akihiko)
+

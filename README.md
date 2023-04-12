@@ -40,7 +40,7 @@ that follows the SOLID principles.
     <img align="left" alt="SQLAlchemy" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
     <img align="left" alt="Git" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img align="left" alt="Redis" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-    <img align="left" alt="Bash" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
+    <img align="left" alt="Bash" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />  
     <img align="left" alt="SSH" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" />
     <img align="left" alt="Vim" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
     <img align="left" alt="Linux" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -48,12 +48,12 @@ that follows the SOLID principles.
     <img align="left" alt="PostgreSQL" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
     <img align="left" alt="SQLite" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
     <img align="left" alt="SQLAlchemy" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" />
-</p>
+</p>  
 
-<br>
+<br> 
 
----
-
+#
+  
 ### Contact With Me
 
 [<img src="./img/telegram-app.svg"/>](https://t.me/ghetto_meloman)

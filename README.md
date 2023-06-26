@@ -8,7 +8,6 @@ about finding the best solution for a problem, and writing clean code
 that follows the SOLID principles.
 
 <p align="left">
-    <img src="https://custom-icon-badges.demolab.com/github/gist/last-commit/86606134?label=Most%20active%20month&style=for-the-badge">
     <img src="https://custom-icon-badges.demolab.com/github/followers/n-freman?style=for-the-badge">
     <img src="https://custom-icon-badges.demolab.com/twitter/url?logo=twitter&url=https%3A%2F%2Ftwitter.com%2Fsilence79505068&style=for-the-badge&">
 </p>

@@ -25,7 +25,7 @@ that follows the SOLID principles.
 
 ### Languages and Tools
 
-<p align="left" style="padding-bottom:15px;">
+<div align="left" style="padding-bottom:15px;">
     <img align="left" alt="Python" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img align="left" alt="Django" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
     <img align="left" alt="Flask" width="30" style="margin-right:10px;background-color:white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
@@ -47,9 +47,10 @@ that follows the SOLID principles.
     <img align="left" alt="PostgreSQL" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
     <img align="left" alt="SQLite" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
     <img align="left" alt="SQLAlchemy" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" />
-</p>  
+</div>  
 
-<br> 
+<br>         
+.    
 
 #
   

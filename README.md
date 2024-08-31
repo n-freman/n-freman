@@ -14,11 +14,11 @@ that follows the SOLID principles.
 
 ---
 
-## I'm a Developer, and Teacher!!
+## I'm a Developer and Tech Enthusiast!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers and any creative people
-- 🥅 2023 Goals: Learn more about mobile software architecture
+- 🥅 2025 Goals: Learn more about mobile software architecture
 - ⚡ Fun fact: I love cycling and playing guitar
 
 ---

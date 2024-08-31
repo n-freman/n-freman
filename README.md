@@ -51,8 +51,8 @@ that follows the SOLID principles.
   
 ### Contact With Me
 
-[<img src="./img/telegram-app.svg"/>](https://t.me/ghetto_meloman)
-[<img src="./img/linkedin.svg"/>](https://t.me/ghetto_meloman)
+[<img src="./img/telegram-app.svg"/>](https://t.me/n_freman)
+[<img src="./img/linkedin.svg"/>]([https://t.me/ghetto_meloman](https://www.linkedin.com/in/nazar-annanazarov-182121279/))
 [<img src="./img/twitter.svg"/>](https://twitter.com/Silence79505068)
 [<img src="./img/github.svg"/>](https://github.com/n-freman)
 [<img src="./img/stack-overflow.svg"/>](https://stackoverflow.com/users/16886198/kayaba-akihiko)

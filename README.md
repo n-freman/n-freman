@@ -8,7 +8,7 @@ I like building tools that connect ideas with code. Most of my projects explore 
 
 ### Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,mongodb,postgres,redis,rabbitmq,kafka,pytorch,tensorflow,opencv,sklearn)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,mongodb,postgres,redis,rabbitmq,kafka,pytorch,tensorflow,opencv,sklearn,aws,)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=react,md,latex,graphql,neovim,materialui,nginx,nextjs,tailwind,sass,redux,bash,selenium)](https://skillicons.dev)
 
